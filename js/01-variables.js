@@ -19,3 +19,8 @@ document.write("edad: " + edad + "<br>")
 
 edad = 30 + 3;
 document.write("edad: " + edad)
+//mostrar en ventanas emergentes
+alert("bienvenidos")
+
+const edadUsuario = prompt("ingrese su edad")
+console.log(edadUsuario)
